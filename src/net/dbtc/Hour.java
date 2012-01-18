@@ -1,0 +1,7 @@
+package net.dbtc;
+
+public enum Hour {
+	
+	AM0830_AM1000, AM1000_AM1130, AM1130_PM0100, PM0100_PM0230, PM0230_PM0400, PM0400_PM0530
+	
+}
